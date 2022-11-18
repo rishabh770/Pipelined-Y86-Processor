@@ -1,0 +1,253 @@
+VCD info: dumpfile proc_out.vcd opened for output.
+clk=0 pc=                   0 new_pc=                   x 
+icode=xxxx ifun=xxxx rA= x rB= x valC=                   x valP=                   x valE=                   x 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=x, of=x, sf=x register_3=                   0
+
+
+
+clk=1 pc=                  32 new_pc=                  42 
+icode=0011 ifun=0000 rA=15 rB= 4 valC=  504403158265495552 valP=                  42 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  32 new_pc=                  42 
+icode=0011 ifun=0000 rA=15 rB= 4 valC=  504403158265495552 valP=                  42 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  42 new_pc=                  43 
+icode=0000 ifun=0000 rA=15 rB= 4 valC=  504403158265495552 valP=                  43 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  42 new_pc=                  43 
+icode=0000 ifun=0000 rA=15 rB= 4 valC=  504403158265495552 valP=                  43 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  43 new_pc=                  44 
+icode=0000 ifun=0000 rA=15 rB= 4 valC=  504403158265495552 valP=                  44 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  43 new_pc=                  44 
+icode=0000 ifun=0000 rA=15 rB= 4 valC=  504403158265495552 valP=                  44 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  44 new_pc=                  54 
+icode=0011 ifun=0000 rA=15 rB= 6 valC=  504403158265495552 valP=                  54 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  44 new_pc=                  54 
+icode=0011 ifun=0000 rA=15 rB= 6 valC=  504403158265495552 valP=                  54 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  54 new_pc=                  55 
+icode=0000 ifun=0000 rA=15 rB= 6 valC=  504403158265495552 valP=                  55 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  54 new_pc=                  55 
+icode=0000 ifun=0000 rA=15 rB= 6 valC=  504403158265495552 valP=                  55 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  55 new_pc=                  56 
+icode=0000 ifun=0000 rA=15 rB= 6 valC=  504403158265495552 valP=                  56 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  55 new_pc=                  56 
+icode=0000 ifun=0000 rA=15 rB= 6 valC=  504403158265495552 valP=                  56 valE=  504403158265495552 
+valM=                   x valA=                   x valB=                   x 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  56 new_pc=                  58 
+icode=0110 ifun=0001 rA= 4 rB= 6 valC=  504403158265495552 valP=                  58 valE=                   0 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  56 new_pc=                  58 
+icode=0110 ifun=0001 rA= 4 rB= 6 valC=  504403158265495552 valP=                  58 valE=                   0 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=x, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  58 new_pc=                  59 
+icode=0000 ifun=0000 rA= 4 rB= 6 valC=  504403158265495552 valP=                  59 valE=                   0 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=x, zf=1, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  58 new_pc=                  59 
+icode=0000 ifun=0000 rA= 4 rB= 6 valC=  504403158265495552 valP=                  59 valE=                   0 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=x, zf=1, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  59 new_pc=                  61 
+icode=0010 ifun=0011 rA= 4 rB= 6 valC=  504403158265495552 valP=                  61 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=1, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  59 new_pc=                  61 
+icode=0010 ifun=0011 rA= 4 rB= 6 valC=  504403158265495552 valP=                  61 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=1, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  61 new_pc=                  62 
+icode=0000 ifun=0000 rA= 4 rB= 6 valC=  504403158265495552 valP=                  62 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  61 new_pc=                  62 
+icode=0000 ifun=0000 rA= 4 rB= 6 valC=  504403158265495552 valP=                  62 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  62 new_pc=                  63 
+icode=0000 ifun=0000 rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  62 new_pc=                  63 
+icode=0000 ifun=0000 rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=0 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+
+clk=1 pc=                  63 new_pc=                  63 
+icode=xxxx ifun=xxxx rA= 4 rB= 6 valC=  504403158265495552 valP=                  63 valE=  504403158265495552 
+valM=                   x valA=  504403158265495552 valB=  504403158265495552 
+cnd=1, zf=0, of=0, sf=0 register_3=                   0
+
+
+

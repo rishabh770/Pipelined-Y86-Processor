@@ -1,0 +1,212 @@
+$date
+	Wed Feb  2 17:25:12 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module and_test $end
+$var wire 64 ! result [64:1] $end
+$var reg 64 " a [64:1] $end
+$var reg 64 # b [64:1] $end
+$scope module dut $end
+$var wire 64 $ a [64:1] $end
+$var wire 64 % b [64:1] $end
+$var wire 64 & result [64:1] $end
+$scope begin genblk1[1] $end
+$upscope $end
+$scope begin genblk1[2] $end
+$upscope $end
+$scope begin genblk1[3] $end
+$upscope $end
+$scope begin genblk1[4] $end
+$upscope $end
+$scope begin genblk1[5] $end
+$upscope $end
+$scope begin genblk1[6] $end
+$upscope $end
+$scope begin genblk1[7] $end
+$upscope $end
+$scope begin genblk1[8] $end
+$upscope $end
+$scope begin genblk1[9] $end
+$upscope $end
+$scope begin genblk1[10] $end
+$upscope $end
+$scope begin genblk1[11] $end
+$upscope $end
+$scope begin genblk1[12] $end
+$upscope $end
+$scope begin genblk1[13] $end
+$upscope $end
+$scope begin genblk1[14] $end
+$upscope $end
+$scope begin genblk1[15] $end
+$upscope $end
+$scope begin genblk1[16] $end
+$upscope $end
+$scope begin genblk1[17] $end
+$upscope $end
+$scope begin genblk1[18] $end
+$upscope $end
+$scope begin genblk1[19] $end
+$upscope $end
+$scope begin genblk1[20] $end
+$upscope $end
+$scope begin genblk1[21] $end
+$upscope $end
+$scope begin genblk1[22] $end
+$upscope $end
+$scope begin genblk1[23] $end
+$upscope $end
+$scope begin genblk1[24] $end
+$upscope $end
+$scope begin genblk1[25] $end
+$upscope $end
+$scope begin genblk1[26] $end
+$upscope $end
+$scope begin genblk1[27] $end
+$upscope $end
+$scope begin genblk1[28] $end
+$upscope $end
+$scope begin genblk1[29] $end
+$upscope $end
+$scope begin genblk1[30] $end
+$upscope $end
+$scope begin genblk1[31] $end
+$upscope $end
+$scope begin genblk1[32] $end
+$upscope $end
+$scope begin genblk1[33] $end
+$upscope $end
+$scope begin genblk1[34] $end
+$upscope $end
+$scope begin genblk1[35] $end
+$upscope $end
+$scope begin genblk1[36] $end
+$upscope $end
+$scope begin genblk1[37] $end
+$upscope $end
+$scope begin genblk1[38] $end
+$upscope $end
+$scope begin genblk1[39] $end
+$upscope $end
+$scope begin genblk1[40] $end
+$upscope $end
+$scope begin genblk1[41] $end
+$upscope $end
+$scope begin genblk1[42] $end
+$upscope $end
+$scope begin genblk1[43] $end
+$upscope $end
+$scope begin genblk1[44] $end
+$upscope $end
+$scope begin genblk1[45] $end
+$upscope $end
+$scope begin genblk1[46] $end
+$upscope $end
+$scope begin genblk1[47] $end
+$upscope $end
+$scope begin genblk1[48] $end
+$upscope $end
+$scope begin genblk1[49] $end
+$upscope $end
+$scope begin genblk1[50] $end
+$upscope $end
+$scope begin genblk1[51] $end
+$upscope $end
+$scope begin genblk1[52] $end
+$upscope $end
+$scope begin genblk1[53] $end
+$upscope $end
+$scope begin genblk1[54] $end
+$upscope $end
+$scope begin genblk1[55] $end
+$upscope $end
+$scope begin genblk1[56] $end
+$upscope $end
+$scope begin genblk1[57] $end
+$upscope $end
+$scope begin genblk1[58] $end
+$upscope $end
+$scope begin genblk1[59] $end
+$upscope $end
+$scope begin genblk1[60] $end
+$upscope $end
+$scope begin genblk1[61] $end
+$upscope $end
+$scope begin genblk1[62] $end
+$upscope $end
+$scope begin genblk1[63] $end
+$upscope $end
+$scope begin genblk1[64] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1000000000000000000000000000000000000000000000000000000000000000 &
+b1110111011101110111011101110111011101110111011101110111011101110 %
+b1001000100010001000100010001000100010001000100010001000100010001 $
+b1110111011101110111011101110111011101110111011101110111011101110 #
+b1001000100010001000100010001000100010001000100010001000100010001 "
+b1000000000000000000000000000000000000000000000000000000000000000 !
+$end
+#50
+b1100 !
+b1100 &
+b1111111111111111111111111111111111111111111111111111111111111100 #
+b1111111111111111111111111111111111111111111111111111111111111100 %
+b1111 "
+b1111 $
+#100
+b1111111111111111111111111111111111111111111111111111111111111100 !
+b1111111111111111111111111111111111111111111111111111111111111100 &
+b1111111111111111111111111111111111111111111111111111111111111100 "
+b1111111111111111111111111111111111111111111111111111111111111100 $
+#150
+b100011001000101000000011010010100101101000101000001000001000 !
+b100011001000101000000011010010100101101000101000001000001000 &
+b1010101111101010101100101011010110101101101010101010101010101001 #
+b1010101111101010101100101011010110101101101010101010101010101001 %
+b100011001001101010010111110010100111101000101001011101011010 "
+b100011001001101010010111110010100111101000101001011101011010 $
+#200
+b1010100100010000000000100000010101010 !
+b1010100100010000000000100000010101010 &
+b101010100101010010100010101001010101010 #
+b101010100101010010100010101001010101010 %
+b101101001001010110100010000001000100010011101111 "
+b101101001001010110100010000001000100010011101111 $
+#250
+b1111111010010000000000001001011111000100000001100000000000 !
+b1111111010010000000000001001011111000100000001100000000000 &
+b1111111111111111111110010000001001011111100100000001101011110001 #
+b1111111111111111111110010000001001011111100100000001101011110001 %
+b1111111010010000000010101111111111000101001111110000000110 "
+b1111111010010000000010101111111111000101001111110000000110 $
+#300
+b10001001 !
+b10001001 &
+b10010011111111001 #
+b10010011111111001 %
+b100010000000000010001001 "
+b100010000000000010001001 $
+#350
+b1111111100000001001011111000010010001001010100010000010010000000 !
+b1111111100000001001011111000010010001001010100010000010010000000 &
+b1111111100000001001011111000010010001001010100010000111110010011 #
+b1111111100000001001011111000010010001001010100010000111110010011 %
+b1111111111111111111111111111111111111111111111111110010010000100 "
+b1111111111111111111111111111111111111111111111111110010010000100 $
+#400
+b0 !
+b0 &
+b0 #
+b0 %
+b1100010011110101010000000000010010100001111010110110011010111110 "
+b1100010011110101010000000000010010100001111010110110011010111110 $
+#450
